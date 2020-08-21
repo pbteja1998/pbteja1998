@@ -24,7 +24,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Babel Plugin To Remove Console Logs In Production](https://blog.bhanuteja.dev/babel-plugin-to-remove-console-logs-in-production-cke1t16g000e5hqs182ma3p3e)
+- [noopener, noreferrer, and nofollow - When to use them? How can these prevent Phishing Attacks?](https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks-ckdzyjvqa0057des1hyyo3sfy)
+- [Create New CodePens and CodeSandboxes Instantly With ZERO clicks](https://blog.bhanuteja.dev/create-new-codepens-and-codesandboxes-instantly-with-zero-clicks-ckdx9ml7e03imids1c3gd0ph7)
+- [How to Import SVGs into your Next.js Project?](https://blog.bhanuteja.dev/how-to-import-svgs-into-your-nextjs-project-ckdx1m6jf033ajas1dzdh2zmp)
+- [How I made a Markdown Editor with ability to embed YouTube Videos, CodePens, Code SandBoxes etc - Part One](https://blog.bhanuteja.dev/how-i-made-a-markdown-editor-with-ability-to-embed-youtube-videos-codepens-code-sandboxes-etc-part-one-ckdv95fw300kljas1gtwndl16)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
