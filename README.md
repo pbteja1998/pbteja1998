@@ -24,11 +24,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Hyphenate when you justify text](https://blog.bhanuteja.dev/til-hyphenate-when-you-justify-text-ckebn0kc0004inss19j255mox)
-- [Embed Youtube Videos into Your Markdown Editor](https://blog.bhanuteja.dev/embed-youtube-videos-into-your-markdown-editor-cke6g9une00b6yjs12z391ijr)
-- [Babel Plugin To Remove Console Logs In Production](https://blog.bhanuteja.dev/babel-plugin-to-remove-console-logs-in-production-cke1t16g000e5hqs182ma3p3e)
-- [noopener, noreferrer, and nofollow - When to use them? How can these prevent Phishing Attacks?](https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks-ckdzyjvqa0057des1hyyo3sfy)
-- [Create New CodePens and CodeSandboxes Instantly With ZERO clicks](https://blog.bhanuteja.dev/create-new-codepens-and-codesandboxes-instantly-with-zero-clicks-ckdx9ml7e03imids1c3gd0ph7)
+- [TIL: Hyphenate when you justify text](https://blog.bhanuteja.dev/til-hyphenate-when-you-justify-text)
+- [Embed Youtube Videos into Your Markdown Editor](https://blog.bhanuteja.dev/embed-youtube-videos-into-your-markdown-editor)
+- [Babel Plugin To Remove Console Logs In Production](https://blog.bhanuteja.dev/babel-plugin-to-remove-console-logs-in-production)
+- [noopener, noreferrer, and nofollow - When to use them? How can these prevent Phishing Attacks?](https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks)
+- [Create New CodePens and CodeSandboxes Instantly With ZERO clicks](https://blog.bhanuteja.dev/create-new-codepens-and-codesandboxes-instantly-with-zero-clicks)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
