@@ -24,11 +24,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Your Own Super Simple URL Shortener](https://blog.bhanuteja.dev/create-your-own-super-simple-url-shortener)
 - [Why you should start using HSL color format](https://blog.bhanuteja.dev/why-you-should-start-using-hsl-color-format)
 - [TIL: Hyphenate when you justify text](https://blog.bhanuteja.dev/til-hyphenate-when-you-justify-text)
 - [Embed Youtube Videos into Your Markdown Editor](https://blog.bhanuteja.dev/embed-youtube-videos-into-your-markdown-editor)
 - [Babel Plugin To Remove Console Logs In Production](https://blog.bhanuteja.dev/babel-plugin-to-remove-console-logs-in-production)
-- [noopener, noreferrer, and nofollow - When to use them? How can these prevent Phishing Attacks?](https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
