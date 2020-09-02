@@ -24,11 +24,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React Fundamentals](https://blog.bhanuteja.dev/react-fundamentals)
 - [Create Your Own Super Simple URL Shortener](https://blog.bhanuteja.dev/create-your-own-super-simple-url-shortener)
 - [Why you should start using HSL color format](https://blog.bhanuteja.dev/why-you-should-start-using-hsl-color-format)
 - [TIL: Hyphenate when you justify text](https://blog.bhanuteja.dev/til-hyphenate-when-you-justify-text)
 - [Embed Youtube Videos into Your Markdown Editor](https://blog.bhanuteja.dev/embed-youtube-videos-into-your-markdown-editor)
-- [Babel Plugin To Remove Console Logs In Production](https://blog.bhanuteja.dev/babel-plugin-to-remove-console-logs-in-production)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
