@@ -24,11 +24,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Epic React: React Fundamentals - Part 1](https://blog.bhanuteja.dev/epic-react-react-fundamentals-part-1)
 - [How I Gave A Modern Look For HackerNews Feed](https://blog.bhanuteja.dev/how-i-gave-a-modern-look-for-hackernews-feed)
 - [Epic React: Javascript You Need To Know For React](https://blog.bhanuteja.dev/epic-react-javascript-you-need-to-know-for-react)
 - [Epic React: Introduction](https://blog.bhanuteja.dev/epic-react-introduction)
 - [React Fundamentals](https://blog.bhanuteja.dev/react-fundamentals)
-- [Create Your Own Super Simple URL Shortener](https://blog.bhanuteja.dev/create-your-own-super-simple-url-shortener)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
