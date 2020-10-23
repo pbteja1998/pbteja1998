@@ -24,11 +24,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React Fundamentals: Styling And Handling Forms](https://blog.bhanuteja.dev/react-fundamentals-styling-and-handling-forms)
+- [React Fundamentals: Creating Custom Components](https://blog.bhanuteja.dev/react-fundamentals-creating-custom-components)
 - [Revamped GitHub Jobs Website Using Design From Frontend Mentor](https://blog.bhanuteja.dev/i-revamped-github-jobs-website-using-design-from-frontend-mentor)
 - [React Fundamentals: Understanding JSX](https://blog.bhanuteja.dev/react-fundamentals-understanding-jsx)
 - [React Fundamentals: Intro to React Raw APIs](https://blog.bhanuteja.dev/epic-react-react-fundamentals-part-1)
-- [How I Gave A Modern Look For HackerNews Feed](https://blog.bhanuteja.dev/how-i-gave-a-modern-look-for-hackernews-feed)
-- [Javascript You Need To Know For React](https://blog.bhanuteja.dev/epic-react-javascript-you-need-to-know-for-react)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
