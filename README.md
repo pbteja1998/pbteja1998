@@ -22,6 +22,8 @@
 
 - 📫 How to reach me - You can email me at **pbteja1998@gmail.com** 
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J72JK30)
+
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [React Fundamentals: Styling And Handling Forms](https://blog.bhanuteja.dev/react-fundamentals-styling-and-handling-forms)
