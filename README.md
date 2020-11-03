@@ -26,11 +26,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily Detect Outside Click Using useRef Hook](https://blog.bhanuteja.dev/easily-detect-outside-click-using-useref-hook)
+- [How to Create a Reusable LocalStorage Hook](https://blog.bhanuteja.dev/how-to-create-a-reusable-localstorage-hook)
 - [React Hooks: Managing State With useState Hook](https://blog.bhanuteja.dev/react-hooks-managing-state-with-usestate-hook)
 - [React Fundamentals: Styling And Handling Forms](https://blog.bhanuteja.dev/react-fundamentals-styling-and-handling-forms)
 - [React Fundamentals: Creating Custom Components](https://blog.bhanuteja.dev/react-fundamentals-creating-custom-components)
-- [Revamped GitHub Jobs Website Using Design From Frontend Mentor](https://blog.bhanuteja.dev/i-revamped-github-jobs-website-using-design-from-frontend-mentor)
-- [React Fundamentals: Understanding JSX](https://blog.bhanuteja.dev/react-fundamentals-understanding-jsx)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
