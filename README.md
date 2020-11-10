@@ -26,11 +26,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Lifecycle of React Hooks Component](https://blog.bhanuteja.dev/the-lifecycle-of-react-hooks-component)
 - [3 Simple Steps To Setup Authentication in Next.js](https://blog.bhanuteja.dev/3-simple-steps-to-setup-authentication-in-nextjs)
 - [Easily Detect Outside Click Using useRef Hook](https://blog.bhanuteja.dev/easily-detect-outside-click-using-useref-hook)
 - [How to Create a Reusable LocalStorage Hook](https://blog.bhanuteja.dev/how-to-create-a-reusable-localstorage-hook)
 - [React Hooks: Managing State With useState Hook](https://blog.bhanuteja.dev/react-hooks-managing-state-with-usestate-hook)
-- [React Fundamentals: Styling And Handling Forms](https://blog.bhanuteja.dev/react-fundamentals-styling-and-handling-forms)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
