@@ -55,10 +55,10 @@
 
 ### Github Stats
 
-[![Bhanu Teja Pachipulusu's github lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=pbteja1998&show_icons=true&count_private=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhanu Teja Pachipulusu's github lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=pbteja1998&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Bhanu Teja Pachipulusu's github stats](https://github-readme-stats.vercel.app/api?username=pbteja1998&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhanu Teja Pachipulusu's github stats](https://github-readme-stats.vercel.app/api?username=pbteja1998&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
