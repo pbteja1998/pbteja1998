@@ -22,9 +22,15 @@
 
 - 📫 How to reach me - You can email me at **pbteja1998@gmail.com** 
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J72JK30)
+
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [The Lifecycle of React Hooks Component](https://blog.bhanuteja.dev/the-lifecycle-of-react-hooks-component)
+- [3 Simple Steps To Setup Authentication in Next.js](https://blog.bhanuteja.dev/3-simple-steps-to-setup-authentication-in-nextjs)
+- [Easily Detect Outside Click Using useRef Hook](https://blog.bhanuteja.dev/easily-detect-outside-click-using-useref-hook)
+- [How to Create a Reusable LocalStorage Hook](https://blog.bhanuteja.dev/how-to-create-a-reusable-localstorage-hook)
+- [React Hooks: Managing State With useState Hook](https://blog.bhanuteja.dev/react-hooks-managing-state-with-usestate-hook)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
