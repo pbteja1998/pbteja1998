@@ -49,13 +49,11 @@
 
 ### Github Stats
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbteja1998&layout=compact&hide=html" alt="pbteja1998" />
-</p>
+[![Bhanu Teja Pachipulusu's github lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=pbteja1998&show_icons=true&count_private=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pbteja1998&show_icons=true" alt="pbteja1998" />
-</p>
+
+[![Bhanu Teja Pachipulusu's github stats](https://github-readme-stats.vercel.app/api?username=pbteja1998&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
     <a href="https://bhanuteja.dev" target="blank"><img align="center" src="https://github.com/pbteja1998/pbteja1998/blob/master/images/logo.png" alt="Bhanu Teja's Portfolio" height="30" width="30" /></a>
