@@ -26,11 +26,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Starter With Authentication + React 17 + TypeScript + Tailwind CSS 2 + ESLint](https://blog.bhanuteja.dev/nextjs-starter-with-authentication-react-17-typescript-tailwind-css-2-eslint)
-- [30+ Git Commands That I Frequently Use](https://blog.bhanuteja.dev/30-git-commands-that-i-frequently-use)
 - [The Lifecycle of React Hooks Component](https://blog.bhanuteja.dev/the-lifecycle-of-react-hooks-component)
 - [3 Simple Steps To Setup Authentication in Next.js](https://blog.bhanuteja.dev/3-simple-steps-to-setup-authentication-in-nextjs)
 - [Easily Detect Outside Click Using useRef Hook](https://blog.bhanuteja.dev/easily-detect-outside-click-using-useref-hook)
+- [How to Create a Reusable LocalStorage Hook](https://blog.bhanuteja.dev/how-to-create-a-reusable-localstorage-hook)
+- [React Hooks: Managing State With useState Hook](https://blog.bhanuteja.dev/react-hooks-managing-state-with-usestate-hook)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
