@@ -26,11 +26,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Tech Behind Coderplex Website](https://blog.bhanuteja.dev/tech-behind-coderplex-website)
 - [My 2020 Blogging Journey](https://blog.bhanuteja.dev/my-2020-blogging-journey)
 - [Next.js Starter Template With Authentication + React 17 + TypeScript + Tailwind CSS 2 + ESLint](https://blog.bhanuteja.dev/nextjs-starter-with-authentication-react-17-typescript-tailwind-css-2-eslint)
 - [30+ Git Commands That I Frequently Use](https://blog.bhanuteja.dev/30-git-commands-that-i-frequently-use)
 - [The Lifecycle of React Hooks Component](https://blog.bhanuteja.dev/the-lifecycle-of-react-hooks-component)
+- [3 Simple Steps To Setup Authentication in Next.js](https://blog.bhanuteja.dev/3-simple-steps-to-setup-authentication-in-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
