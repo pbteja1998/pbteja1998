@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Teja</h1>
-<h3 align="center">A Full-Stack Developer, An Entrepreneur and A Blogger</h3>
+<h3 align="center">A Full-Stack Developer, An Indie Maker and A Blogger</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pbteja1998" alt="pbteja1998" /> </p>
 
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [wordplex.app](https://wordplex.app)
+- 🔭 I’m currently working on [mdx.one](https://mdx.one)
 
 - 👨‍💻 All of my projects are available at [https://bhanuteja.dev/](https://bhanuteja.dev/)
 
